@@ -1,2 +1,2 @@
-# primerproyect
-Primer texto
+# primerproyecto
+Primero proyecto a realizar!
